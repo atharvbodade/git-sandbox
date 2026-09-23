@@ -6,3 +6,11 @@ A repository for practicing Git and GitHub.
 
 Learning Git basics through Project Team Assignment 1.
 
+## Topics
+
+- Commits
+- Branches
+- Merging
+- Rebasing
+
+
