@@ -22,3 +22,7 @@ Currently working through the Git assignment.
 This change was made on the feature branch.
 
 This line was changed by main.
+
+## T7
+Squashing commits is useful for cleaning up history.
+These three commits will become one.
