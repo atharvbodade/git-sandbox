@@ -13,4 +13,6 @@ Learning Git basics through Project Team Assignment 1.
 - Merging
 - Rebasing
 
+## Status
 
+Currently working through the Git assignment.
