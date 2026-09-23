@@ -16,3 +16,7 @@ Learning Git basics through Project Team Assignment 1.
 ## Status
 
 Currently working through the Git assignment.
+
+## Branching
+
+This change was made on the feature branch.
